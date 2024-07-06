@@ -1,0 +1,31 @@
+[
+    {
+        "nama": "Johari Sinaga",
+        "nim" : "0512161",
+        "emai": "johari@gmail.com",
+        "jurusan": "Teknik Informatika",
+        "idDosenWali": 1
+    },
+    {
+        "nama": "Jhony Silaban",
+        "nim" : "0450621",
+        "emai": "johny@gmail.com",
+        "jurusan": "Teknik Elektro",
+        "idDosenWali": 2
+    },
+    {
+        "nama": "Agus Sinaga",
+        "nim" : "062258",
+        "emai": "johari@gmail.com",
+        "jurusan": "Manajemen Informatika",
+        "idDosenWali": 3
+    },
+    {
+        "nama": "Elsabetn Manurung",
+        "nim" : "064943",
+        "emai": "elisabet@gmail.com",
+        "jurusan": "Agribisnis",
+        "idDosenWali": 4
+    }
+
+]
